@@ -1,0 +1,64 @@
+
+1-D-MPI is a one dimensional MPI implementation of NPB benchmarks : BT, SP and LU Benchmark.
+The NPB benchmarks are written in C programming languages. 
+
+********************************************************************
+
+1. Prerequisite : 
+
+	1) MPICH or  Intel-MPI or Openmpi compiler
+	
+
+2. Compilation
+
+   Before compilation, one needs to check the configuration file
+   'make.def' in the config directory and modify the file if necessary.  
+   If it does not (yet) exist, copy 'make.def.template' or one of the
+   sample files in the NAS.samples subdirectory to 'make.def' and
+   edit the content for site- and machine-specific data.  Then
+
+       make <benchmark-name> NPROCS=<number> CLASS=<class> \
+         [SUBTYPE=<type>] [VERSION=VEC]
+
+   where <benchmark-name>  is  "bt", "sp", "lu"
+         <number>          is the number of processes
+         <class>           is "S", "W", "A", "B", "C", "D", or "E"
+
+  
+   The above procedure allows you to build one benchmark
+   at a time. To build a whole suite, you can type "make suite"
+   Make will look in file "config/suite.def" for a list of 
+   executables to build. The file contains one line per specification, 
+   with comments preceded by "#". Each line contains the name
+   of a benchmark, the class, and the number of processors, separated
+   by spaces or tabs. config/suite.def.template contains an example
+   of such a file.
+
+*************************************************************************
+
+3. Running NPB benchmark program
+
+	
+The above compilation process will generate the executable in "bin" directory. 
+
+for e.g. if you compile the code for 2 processors, then it will generate 
+	sp.A.2 executable for class "A" size. 
+
+To run the executable, one need to execute following command on the machine.
+
+	mpiexec -n  2 ./sp.A.2
+
+   where -n  is number of nodes for the given execuatble. 
+
+********************************************************************************
+		
+
+
+
+
+
+
+
+
+
+
