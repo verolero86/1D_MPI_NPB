@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/102/trunk/FinalCode_1-D-MPI/BT-Benchmark/config
+END
+suite.def.orig
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/102/trunk/FinalCode_1-D-MPI/BT-Benchmark/config/suite.def.orig
+END
+suite.def
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/102/trunk/FinalCode_1-D-MPI/BT-Benchmark/config/suite.def
+END
+make.def.carter-gcc-pg
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/102/trunk/FinalCode_1-D-MPI/BT-Benchmark/config/make.def.carter-gcc-pg
+END
+make.def.ompC
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/102/trunk/FinalCode_1-D-MPI/BT-Benchmark/config/make.def.ompC
+END
+make.def.orig
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/102/trunk/FinalCode_1-D-MPI/BT-Benchmark/config/make.def.orig
+END
+make.def
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/102/trunk/FinalCode_1-D-MPI/BT-Benchmark/config/make.def
+END
+make.def.debug
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/102/trunk/FinalCode_1-D-MPI/BT-Benchmark/config/make.def.debug
+END
+suite.def.template
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/102/trunk/FinalCode_1-D-MPI/BT-Benchmark/config/suite.def.template
+END
+make.def.carter-gcc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/102/trunk/FinalCode_1-D-MPI/BT-Benchmark/config/make.def.carter-gcc
+END
+make.def.template
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/102/trunk/FinalCode_1-D-MPI/BT-Benchmark/config/make.def.template
+END
+make.def.mympi
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/102/trunk/FinalCode_1-D-MPI/BT-Benchmark/config/make.def.mympi
+END

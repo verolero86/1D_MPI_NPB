@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/102/trunk/FinalCode_1-D-MPI/BT-Benchmark/config/NAS.samples
+END
+make.def_sgi64
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/102/trunk/FinalCode_1-D-MPI/BT-Benchmark/config/NAS.samples/make.def_sgi64
+END
+suite.def.mg
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/102/trunk/FinalCode_1-D-MPI/BT-Benchmark/config/NAS.samples/suite.def.mg
+END
+suite.def.ep
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/102/trunk/FinalCode_1-D-MPI/BT-Benchmark/config/NAS.samples/suite.def.ep
+END
+suite.def.bt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/102/trunk/FinalCode_1-D-MPI/BT-Benchmark/config/NAS.samples/suite.def.bt
+END
+make.def_omni
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/102/trunk/FinalCode_1-D-MPI/BT-Benchmark/config/NAS.samples/make.def_omni
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/102/trunk/FinalCode_1-D-MPI/BT-Benchmark/config/NAS.samples/README
+END
+suite.def.ft
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/102/trunk/FinalCode_1-D-MPI/BT-Benchmark/config/NAS.samples/suite.def.ft
+END
+make.def_sun
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/102/trunk/FinalCode_1-D-MPI/BT-Benchmark/config/NAS.samples/make.def_sun
+END
+suite.def.is
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/102/trunk/FinalCode_1-D-MPI/BT-Benchmark/config/NAS.samples/suite.def.is
+END
+make.def_ibm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/102/trunk/FinalCode_1-D-MPI/BT-Benchmark/config/NAS.samples/make.def_ibm
+END
+suite.def.lu
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/102/trunk/FinalCode_1-D-MPI/BT-Benchmark/config/NAS.samples/suite.def.lu
+END
+make.def_intel
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/102/trunk/FinalCode_1-D-MPI/BT-Benchmark/config/NAS.samples/make.def_intel
+END
+suite.def.sp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/102/trunk/FinalCode_1-D-MPI/BT-Benchmark/config/NAS.samples/suite.def.sp
+END
+make.def_sun64
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/102/trunk/FinalCode_1-D-MPI/BT-Benchmark/config/NAS.samples/make.def_sun64
+END
+make.def_pgi
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/102/trunk/FinalCode_1-D-MPI/BT-Benchmark/config/NAS.samples/make.def_pgi
+END
+make.def.gcc_x86
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/102/trunk/FinalCode_1-D-MPI/BT-Benchmark/config/NAS.samples/make.def.gcc_x86
+END
+make.def_ibm64
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/102/trunk/FinalCode_1-D-MPI/BT-Benchmark/config/NAS.samples/make.def_ibm64
+END
+make.def_sgi
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/102/trunk/FinalCode_1-D-MPI/BT-Benchmark/config/NAS.samples/make.def_sgi
+END
+suite.def.cg
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/102/trunk/FinalCode_1-D-MPI/BT-Benchmark/config/NAS.samples/suite.def.cg
+END
